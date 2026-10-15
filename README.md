@@ -1,4 +1,8 @@
-## Hi, I'm Sophie :)
+# Hi :)
+
+I'm Sophie, a software developer with over 5 years of industry experience, primarily in graphics and tool development. I'm most comfortable with **C++** and **Python** application development, though I have experience with many other technologies and languages, like: **TypeScript**, **React**, **C#**, **Unity**, **Blender**, **GLSL**/**HLSL**, **OpenGL**, and **DirectX 12**.
+
+I love the visual side of software development, maybe partially because of my love of art and drawing, which is why my projects here tend to have a side of either computer graphics or art! I've also dabbled a bit in game development and have completed a couple little projects you can see on this page (and I have many many more uncompleted or abandoned projects 😅).
 
 <!--
 **soapycode/soapycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
