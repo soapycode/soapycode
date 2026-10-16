@@ -72,8 +72,8 @@ I love the visual side of software development, maybe partially because of my lo
 
 <table>
     <tr>
-        <td><img src="images/gameboy_game_1.png" style="width: 350px" /></td>
-        <td><img src="images/gameboy_game_2.gif" style="width: 350px" /></td>
+        <td><img src="images/gameboy_game_1.png" style="height: 200px" /></td>
+        <td><img src="images/gameboy_game_2.gif" style="height: 200px" /></td>
     </tr>
 </table>
 
