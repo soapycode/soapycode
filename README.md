@@ -60,9 +60,9 @@ I love the visual side of software development, maybe partially because of my lo
 
 <table>
     <tr>
-        <td><img src="images/rasterizer_cube.png" style="width: 350px" /></td>
-        <td><img src="images/rasterizer_sphere.gif" style="width: 350px" /></td>
-        <td><img src="images/rasterizer_monkey.gif" style="width: 350px" /></td>
+        <td><img src="images/rasterizer_cube.png" style="height: 200px" /></td>
+        <td><img src="images/rasterizer_sphere.gif" style="height: 200px" /></td>
+        <td><img src="images/rasterizer_monkey.gif" style="height: 200px" /></td>
     </tr>
 </table>
 
